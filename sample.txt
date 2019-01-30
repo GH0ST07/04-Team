@@ -1,4 +1,4 @@
 Hi old bones.
 How are you?
 This is an edit
-Not a merge conflict here.
+Merge Conflict 1
