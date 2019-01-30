@@ -1,4 +1,4 @@
 Hi old bones.
 How are you?
 This is an edit
-Merge Conflict 1
+Merge Conflict Resolved!
